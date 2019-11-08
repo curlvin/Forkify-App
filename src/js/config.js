@@ -1,0 +1,2 @@
+export const proxy='https://cors-anywhere.herokuapp.com/';//'https://cors-anywhere.herokuapp.com/';//https://crossorigin.me//https://api.codetabs.com/v1/proxy?quest=
+export const key='f15924a366ac54609bb974a5e1eca73e';
